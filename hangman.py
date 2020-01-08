@@ -38,3 +38,5 @@ Type "help", "copyright", "credits" or "license()" for more information.
         print('you lose! It was {}'.format(word))
         
 hangman('cat')
+#안녕이라고 써볼게
+print('hello')
